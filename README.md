@@ -1,5 +1,5 @@
-** 🧩 Size Chart Popup for WooCommerce
-**
+# 🧩 Size Chart Popup for WooCommerce
+
 If you're running a WooCommerce store and struggling to show size charts on your product pages — this plugin is for you!
 
 This lightweight, customizable plugin allows you to easily display a **"View Size Chart"** button on single product pages. Clicking the button opens a popup showing the size chart you've set using the `WPC Product Size Chart for WooCommerce` plugin.
